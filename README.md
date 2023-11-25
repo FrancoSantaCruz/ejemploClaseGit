@@ -4,10 +4,10 @@
 
 # Integrantes:
 
-- Franco Santa Cruz
+- David Lugones
 - Luis Ojinaga
 - Ramiro Dominguez
 - Galo Guini
 - Francisco Pioli
 - Martina Piedrabuena
-- Mariano Flores
+- Mariano Floress
